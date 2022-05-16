@@ -1,6 +1,6 @@
 #Heading
 
-This is a readme file.
+This is a markdown file
 
 This is a demo repository.
 
