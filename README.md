@@ -1,7 +1,3 @@
-#Heading
+#Demo Repository2
 
-This is a demo file.
-
-This is a demo repository.
-
-This is a github branch concept.
+This is the README file for hte demo repository of dvelopers.WTF tutorial video on the topic "Introduction to Git using Github".
